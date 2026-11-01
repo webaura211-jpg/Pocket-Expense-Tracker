@@ -1,0 +1,6 @@
+{
+  "name": "PocketLedger - Personal Expense Tracker",
+  "description": "Clean personal expense and budget manager to track monthly income, set category budgets, and monitor spending with zero clutter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
